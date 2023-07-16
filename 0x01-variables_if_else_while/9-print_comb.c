@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - main function
+ * main - main unction
  *
  * Return: always 0
  */
