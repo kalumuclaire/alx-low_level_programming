@@ -1,14 +1,16 @@
 #!/usr/bin/python3
-"""Defines a class BaseGeometry based on 5-base_geometry.py"""
+""" Improve Geometry.
+Author: Kanneh
+
+"""
 
 
 class BaseGeometry:
-    """Class BaseGeometry.
-    """
-    def area(self):
-        """Area function.
+    """An empty class"""
 
-        Raises:
-            Exception: if area is not implemented.
+    def area(self):
+        """Raises an exception because...
+        area is not implemented
+
         """
         raise Exception("area() is not implemented")
